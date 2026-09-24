@@ -177,4 +177,5 @@ Chi tiết các minh chứng chu trình phát triển phần mềm được lưu
 - [Prompt Iterations Log](docs/ai_evidence/prompt_iterations.md): Nhật ký 3 vòng thử nghiệm và tinh chỉnh prompt.
 - [AI Ethics & Safety Report](docs/ai_evidence/ai_ethics_report.md): Báo cáo an toàn thông tin, bảo mật API key và đạo đức y tế.
 #   D e m o 3  
+ #   D e m o 3  
  
